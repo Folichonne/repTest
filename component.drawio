@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Type="Broker" c4Container="Message broker" c4Technology="Kafka, Pulsar, Redpanda, RabbitMQ" c4Description="Le message broker sur lequel est branché java-demo-kafkalike-api" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IzMNL_FGZWPaYZVyqAyt-66">
-          <mxCell style="shape=cylinder3;size=15;direction=south;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
+          <mxCell style="shape=cylinder3;size=15;direction=south;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0e7dad;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
             <mxGeometry x="294" y="840" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
@@ -232,11 +232,11 @@
             <mxGeometry x="610" y="840" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="IzMNL_FGZWPaYZVyqAyt-90" value="à implémenter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="IzMNL_FGZWPaYZVyqAyt-90" value="Component à implémenter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="57.5" y="270" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IzMNL_FGZWPaYZVyqAyt-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 4;" parent="1" vertex="1">
-          <mxGeometry x="38.75" y="230" width="127.5" height="218.75" as="geometry" />
+          <mxGeometry x="38.75" y="230" width="127.5" height="220" as="geometry" />
         </mxCell>
         <mxCell id="IzMNL_FGZWPaYZVyqAyt-92" value="Légende" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="57.5" y="230" width="70" height="30" as="geometry" />
@@ -244,10 +244,10 @@
         <mxCell id="hWq3dMdy4ywjI1EbWBCK-2" value="Component" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#63bef2;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="57.5" y="330" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hWq3dMdy4ywjI1EbWBCK-7" value="bus container" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;size=5;fillColor=#63bef2;" vertex="1" parent="1">
-          <mxGeometry x="57.5" y="383.75" width="85" height="52.5" as="geometry" />
+        <mxCell id="hWq3dMdy4ywjI1EbWBCK-7" value="bus container" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;size=5;fillColor=#23a2d9;" vertex="1" parent="1">
+          <mxGeometry x="50" y="383.75" width="92.5" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="hWq3dMdy4ywjI1EbWBCK-8" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#63bef2;" vertex="1" parent="1">
+        <mxCell id="hWq3dMdy4ywjI1EbWBCK-8" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#23a2d9;" vertex="1" parent="1">
           <mxGeometry x="137.5" y="383.75" width="10" height="52.5" as="geometry" />
         </mxCell>
       </root>
